@@ -1,0 +1,1 @@
+// Não é possível alterar o valor de uma constante

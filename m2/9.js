@@ -1,0 +1,1 @@
+// Ele trará 3 saídas corretas, e a última com erro, uma vez que a variável usada está fora do seu escopo
