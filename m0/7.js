@@ -1,0 +1,1 @@
+// As saídas serão, respectivamente: Hello, , Default Value e 42
